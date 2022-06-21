@@ -1,0 +1,66 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+#instruction
+{
+    float: right;
+    font-size: 22px;
+    border: 2px solid white ;
+}
+
+#big_image
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h4
+{
+    margin: 0px;
+    font-size: 20px;
+    line-height: 4;
+    background-color: aliceblue;
+}
+
+.image_instruction
+{
+    width: 45%;
+    display: inline-block;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+
+#close_modal
+{
+    height: 50px;
+    width: 50px;
+}
+
+video
+{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
